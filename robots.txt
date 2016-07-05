@@ -1,7 +1,3 @@
 User-agent: *
 Disallow:
-<<<<<<< HEAD
 Sitemap: https://saracope.github.io/sitemap.xml
-=======
-Sitemap: https://saracope.github.io//sitemap.xml
->>>>>>> 274a62ebb0cbdc024c1cd81243b39ae772db44dc
