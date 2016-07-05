@@ -1,0 +1,61 @@
+[
+  
+  {
+    "title": "Home",
+    "permalink": "/",
+    "href": "pages/home.md"
+
+    
+
+  },
+  
+  {
+    "title": "About",
+    "permalink": "/about/",
+    "href": "pages/about.md"
+
+    
+
+  },
+  
+  {
+    "title": "Work",
+    "permalink": "/projects/",
+    "href": "pages/projects.md"
+
+    ,
+    "children": [
+      
+      {
+        "title": "Microloans for Farmers",
+        "permalink": "",
+        "href": "pages/projects/microloans-for-farmers.md"
+
+      } , 
+      
+      {
+        "title": "Reducing Summer Melt",
+        "permalink": "",
+        "href": "pages/projects/reducing-summer-melt.md"
+
+      } 
+      
+    ]
+    
+
+  },
+  
+  {
+    "title": "Project data",
+    "permalink": "",
+    "href": "_data/projects.yml"
+
+    
+
+  },
+  
+  {
+    "title": "Navigation bar data",
+    "href": "_data/navbar.yml"
+  }
+]
