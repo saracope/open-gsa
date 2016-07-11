@@ -358,3 +358,7 @@ footer a:visited {
 
 .usa-footer-logo p {
   font-size: .7em; }
+
+.header-logo {
+  max-width: 3vw;
+  min-width: 50px; }
