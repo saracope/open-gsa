@@ -218,7 +218,14 @@ li.usa-menu-item:last-child {
 /* Function display (data, apis, code) */
 .function {
   display: flex;
-  justify-content: center; }
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 0 15vw; }
+
+.function-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
 
 section {
   padding-top: 3.2rem;
@@ -261,7 +268,7 @@ section {
   position: absolute;
   bottom: -1.95em;
   left: 0;
-  border-top: solid 2em #d52349;
+  border-top: solid 2em #e31c3d;
   border-left: solid 4.5em transparent;
   border-right: solid 4.5em transparent; }
 
